@@ -1,2 +1,2 @@
-# SmallParty
+학교# SmallParty
 SmallPartyHomeWork
